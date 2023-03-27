@@ -358,10 +358,11 @@ background-image: url(web.jpg);
   margin-top: 70px;
 
 }
+.motive .col2{
+  height: auto;
 
+}
 
-.motive.col2{
-  height:auto;}
 
 strong{
   border: 5px ;
