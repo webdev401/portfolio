@@ -165,9 +165,6 @@ var validate = function(e) {
 
 
 
-function subFun() {
-    alert("Submitted");
-  }
 
 
 //contact form section end:
